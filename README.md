@@ -1,3 +1,3 @@
 # bea
-better discord theme
+Betterdiscord Theme
 Caleb is a fag
